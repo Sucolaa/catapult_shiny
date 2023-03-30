@@ -1,0 +1,13 @@
+name: catapult
+title: catapult
+username:
+account: suxu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8459273
+bundleId: 6966427
+url: https://suxu.shinyapps.io/catapult/
+when: 1678977874.43801
+lastSyncTime: 1678977874.43802
+asMultiple: FALSE
+asStatic: FALSE
